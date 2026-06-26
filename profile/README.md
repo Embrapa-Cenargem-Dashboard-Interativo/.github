@@ -68,11 +68,15 @@ Núcleo de Apoio à Pesquisa (NAP)
 
 ### Equipe de Desenvolvimento
 
-- Felipe Tolentino Soares  
-- Lucas Daniel Paiva de Sá  
-- Luis Guilherme Andrade Palhares de Melo  
-- Miguel Artur de Castro Miranda  
-- Lucas Andrade Fonseca
+- Felipe Tolentino Soares (Responsável pela elaboração e atualização da documentação do projeto, organização das sprints, gestão do Product Backlog, acompanhamento das entregas e apoio no gerenciamento das atividades do projeto.)
+
+- Lucas Daniel Paiva de Sá (Responsável pelo desenvolvimento do frontend, backend e banco de dados, contribuindo para a implementação e integração das funcionalidades do sistema.)
+
+- Luis Guilherme Andrade Palhares de Melo (Responsável pelo apoio na elaboração da documentação, organização das sprints, refinamento dos requisitos e acompanhamento das atividades do projeto.)
+
+- Miguel Artur de Castro Miranda (Responsável pelo apoio na documentação do projeto, acompanhamento das sprints, organização das atividades e auxílio no refinamento das funcionalidades.)
+
+- Lucas Andrade Fonseca (Responsável pelo desenvolvimento do frontend, backend e modelagem do banco de dados, atuando na implementação das funcionalidades principais do sistema.)
 
 Curso: Ciência da Computação – CEUB
 
