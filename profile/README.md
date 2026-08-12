@@ -6,7 +6,7 @@ Este repositório contém o protótipo de um sistema web desenvolvido para apoia
 
 O sistema tem como objetivo facilitar o planejamento, controle e visualização da utilização desses espaços experimentais, permitindo que pesquisadores e administradores acompanhem a disponibilidade e o uso da infraestrutura de pesquisa.
 
-O projeto foi desenvolvido no contexto acadêmico do **Projeto Integrador III do curso de Ciência da Computação do CEUB**.
+O projeto foi desenvolvido no contexto acadêmico do **Projeto Integrador IV do curso de Ciência da Computação do CEUB**.
 
 ---
 
@@ -47,7 +47,7 @@ Inicialmente, o projeto será desenvolvido como **protótipo acadêmico**, poden
 
 ## When (Quando será realizado)
 
-O desenvolvimento do sistema ocorre durante o semestre letivo do **Projeto Integrador III do curso de Ciência da Computação**, envolvendo as etapas de:
+O desenvolvimento do sistema ocorre durante o semestre letivo do **Projeto Integrador IV do curso de Ciência da Computação**, envolvendo as etapas de:
 
 - análise do problema;
 - definição da solução;
