@@ -63,21 +63,51 @@ O desenvolvimento do sistema ocorre durante o semestre letivo do **Projeto Integ
 **Embrapa Cenargen**
 
 Representante:
-- Luis Alberto Martins Palhares de Melo  
-Núcleo de Apoio à Pesquisa (NAP)
 
 ### Equipe de Desenvolvimento
 
-- Felipe Tolentino Soares (Responsável pela elaboração e atualização da documentação do projeto, organização das sprints, gestão do Product Backlog, acompanhamento das entregas e apoio no gerenciamento das atividades do projeto.)
 
-- Lucas Daniel Paiva de Sá (Responsável pelo desenvolvimento do frontend, backend e banco de dados, contribuindo para a implementação e integração das funcionalidades do sistema.)
+<table align="center">
+<tr>
 
-- Luis Guilherme Andrade Palhares de Melo (Responsável pelo apoio na elaboração da documentação, organização das sprints, refinamento dos requisitos e acompanhamento das atividades do projeto.)
+<td align="center">
+<a href="https://github.com/LuisGuilherme345">
+<img style="border-radius:50%;" src="https://avatars.githubusercontent.com/u/161030223?v=4" width="80px;" />
+<br/><b>Luis Alberto Martins Palhares de Melo  </b>
+</a>
+</td>
 
-- Miguel Artur de Castro Miranda (Responsável pelo apoio na documentação do projeto, acompanhamento das sprints, organização das atividades e auxílio no refinamento das funcionalidades.)
+<td align="center">
+<a href="https://github.com/lucas19fonseca">
+<img style="border-radius:50%;" src="https://avatars.githubusercontent.com/u/126473218?v=4" width="80px;" />
+<br/><b>Lucas Fonseca 
+</b>
+</a>
+</td>
 
-- Lucas Andrade Fonseca (Responsável pelo desenvolvimento do frontend, backend e modelagem do banco de dados, atuando na implementação das funcionalidades principais do sistema.)
+<td align="center">
+<a href="https://github.com/FelipeTolentino21">
+<img style="border-radius:50%;" src="https://avatars.githubusercontent.com/u/161332663?v=4" width="80px;" />
+<br/><b>Felipe Tolentino Soares</b>
+</a>
+</td>
 
+<td align="center">
+<a href="https://github.com/lucasdpsa01">
+<img style="border-radius:50%;" src="https://avatars.githubusercontent.com/u/130018028?v=4" width="80px;" />
+<br/><b>Lucas Daniel Paiva de Sá </b>
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/MiguelCastro0">
+<img style="border-radius:50%;" src="https://avatars.githubusercontent.com/u/204897241?v=4" width="80px;" />
+<br/><b>Miguel Artur de Castro Miranda </b>
+</a>
+</td>
+
+</tr>
+</table>
 Curso: Ciência da Computação – CEUB
 
 ---
