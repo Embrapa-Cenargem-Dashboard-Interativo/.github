@@ -145,6 +145,7 @@ Os recursos utilizados consistem principalmente em:
 
 # Links auxiliares
 Link para o [Figma](https://www.figma.com/design/kaAnLTPWFVS4QRWvD6s88K/PI-III---Embrapa-Cenargen--Dashboard-Interativo?node-id=0-1&t=ZtSR1HVEHzScRRIg-1).
+Link para o [Site de testes](https://embrapa-frontend.vercel.app/).
 
 ---
 
